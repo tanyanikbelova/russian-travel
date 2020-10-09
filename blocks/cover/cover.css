@@ -1,6 +1,17 @@
 .cover {
   width: 100%;
   margin-top: 92px;
-  margin-bottom: 92px;
   transition: 0.3s;
+}
+
+@media screen and (max-width: 1023px) {
+  .cover {
+    margin-top: 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover {
+    margin-top: 64px;
+  }
 }
