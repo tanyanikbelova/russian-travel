@@ -1,6 +1,3 @@
-@import url(../photo-grid/__list/photo-grid__list.css);
-@import url(../photo-grid/__item/photo-grid__item.css);
-
 .photo-grid {
   width: 100%;
   margin: 0 auto;

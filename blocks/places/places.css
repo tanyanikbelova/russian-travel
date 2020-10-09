@@ -1,5 +1,3 @@
-@import url(../place/place.css);
-
 .places {
   width: calc(100% - 100px * 2);
   margin: 0 auto;

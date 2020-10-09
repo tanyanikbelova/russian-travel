@@ -4,9 +4,9 @@
   text-decoration-line: underline;
   color: white;
   font-weight: 400;
+  transition: 0.3s;
 }
 
 .place__link:hover {
-  opacity: 0.3;
-  transition: 0.3s;
+  opacity: 0.8;
 }
