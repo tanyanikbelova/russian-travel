@@ -1,0 +1,21 @@
+.page__container {
+  max-width: 1184px;
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 28px 48px 24px;
+  padding: 0;
+}
+
+@media screen and (max-width: 1279px) {
+  .page__container {
+    margin-right: 0;
+    margin-left: 0;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .page__container {
+    margin-top: 16px;
+  }
+}
