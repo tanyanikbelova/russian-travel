@@ -2,22 +2,3 @@
   width: 100%;
   display: block;
 }
-
-@media screen and (max-width: 1279px) {
-  .photo-grid__item {
-    gap: 14px;
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .photo-grid__item {
-    gap: 16px;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .photo-grid__item {
-    width: minmax(288px, 1fr);
-    gap: 12px;
-  }
-}
