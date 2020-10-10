@@ -12,10 +12,10 @@
   -moz-text-size-adjust: 100%;
 }
 
-div, h1, h2, h3, p, ul, li, nav, article {
+/*div, h1, h2, h3, p, ul, li, nav, article {
   outline: 2px red solid;
 } 
 
 ul, li, section, header, footer {
   outline: 2px green solid;
-}
+}*/
